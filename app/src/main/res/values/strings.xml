@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Description</string>
+    <string name="slide_1_desc">The easiest way to describe everything in android development!</string>
+
+    <string name="slide_2_title">Search</string>
+    <string name="slide_2_desc">Search what you want to learn about android development...</string>
+
+    <string name="slide_3_title">Code</string>
+    <string name="slide_3_desc">Learn android coding from beginners to advance level...</string>
+
+    <string name="slide_4_title">translate</string>
+    <string name="slide_4_desc">Translate and learn in your language...</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
